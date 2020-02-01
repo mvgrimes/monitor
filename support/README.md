@@ -45,12 +45,12 @@ For an automation or script (or other service trigger), use:
 
 <details><summary><b> How can I add a known device without manually entering an address?</b></summary><p><p> 
 
-Post a message with the mac address separated from an alias (optional) by a space to: `monitor/setup/add known device`
+Post a message with the mac address separated from an alias (optional) by a space to: `monitor/setup/ADD STATIC DEVICE`
 </details>
 
 <details><summary><b> How can I delete a known device without manually editing an address?</b></summary><p><p> 
 
-Post a message with the mac address to: `monitor/setup/delete known device`
+Post a message with the mac address to: `monitor/setup/DELETE STATIC DEVICE`
 </details>
 
 <details><summary><b> How can I upgrade to the latest version without using ssh?</b></summary><p><p> 
